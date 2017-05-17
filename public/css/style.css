@@ -1,0 +1,143 @@
+body{
+  text-transform: capitalize;
+  background-color: #f5f5f5;
+}
+/*start menu*/
+.menu .panel{
+	box-shadow: 7px 7px 20px #bbb;
+}
+.menu .panel .panel-heading i {
+	cursor: pointer;
+	color: #bbb;
+}
+.menu .panel .panel-heading i:hover{
+	color: #fff;
+}
+.menu table tr th{
+  color: #fff;
+  background-color: #444;
+}
+.menu table tr .disActive{
+  font-weight: bold;
+  color: #e74c3c;
+}
+.menu table tr .active{
+  font-weight: bold;
+  color: #3498db;
+}
+.menu .mar{
+	margin: 100px auto;
+}
+
+.menu .txt{
+	resize: none;
+	height: 120px
+}
+.menu .editImg{
+	box-shadow: 7px 7px 20px #bbb;
+}
+.menu .imgTable{
+  max-height: 500px;
+}
+/*end menu*/
+
+/*start item*/
+.item .panel{
+  box-shadow: 7px 7px 20px #bbb;
+}
+.item .panel .panel-heading i {
+  cursor: pointer;
+  color: #bbb;
+}
+.item .panel .panel-heading i:hover{
+  color: #fff;
+}
+.item table tr th{
+  color: #fff;
+  background-color: #444;
+}
+.item table tr .disActive{
+  font-weight: bold;
+  color: #e74c3c;
+}
+.item table tr .active{
+  font-weight: bold;
+  color: #3498db;
+}
+.item .mar{
+  margin: 100px auto;
+}
+
+.item .txt{
+  resize: none;
+  height: 120px
+}
+.item .editImg{
+  box-shadow: 7px 7px 20px #bbb;
+}
+.item .imgTable{
+  max-height: 500px;
+}
+/*end item*/
+
+/*start item*/
+.meal .panel{
+  box-shadow: 7px 7px 20px #bbb;
+}
+.meal .panel .panel-heading i {
+  cursor: pointer;
+  color: #bbb;
+}
+.meal .panel .panel-heading i:hover{
+  color: #fff;
+}
+.meal table tr th{
+  color: #fff;
+  background-color: #444;
+}
+.meal table tr .disActive{
+  font-weight: bold;
+  color: #e74c3c;
+}
+.meal table tr .active{
+  font-weight: bold;
+  color: #3498db;
+}
+.meal .mar{
+  margin: 100px auto;
+}
+
+.meal .txt{
+  resize: none;
+  height: 120px
+}
+.meal .editImg{
+  box-shadow: 7px 7px 20px #bbb;
+}
+.meal .imgTable{
+  max-height: 500px;
+}
+/*end meal*/
+.menuItems {
+  max-height: 120px;
+  overflow: auto;
+}
+.discount{
+  max-width: 40px
+}
+
+/*========================================== start global ===================================*/
+a{
+  text-decoration: none;
+}
+.pagination>.active>span{
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
+
+.active{
+  font-weight: bold;
+  color: #3498db;
+}
+
+/*========================================== end global ===================================*/
